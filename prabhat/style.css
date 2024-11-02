@@ -1,0 +1,81 @@
+#dell{
+    width: 60vw;
+    height:100vh;
+    background-color: #17a2bb;
+}
+#hp{
+    width: 205px;
+  height:205px;
+  margin-top: 110px;
+  margin-left:280px;
+  opacity: 0.6px;
+}
+#hp1{
+    width: 190px;
+    height: 220px;
+    margin-top:-170px;
+    margin-left: 290px;
+}
+#mouse{
+    width: 440px;
+  height: 97px;
+  margin-top:-180px;
+  margin-left: 220px;
+  color:#ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+  font-size: 28px;
+  align-items: center;
+  line-height: 12px;
+}
+#keyboard{
+    width: 480px;
+    height: 97px;
+    margin-top:-50px;
+    margin-left:270px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 9px;
+    align-items: center;
+}
+#ceres{
+  margin-top: -450px;
+  margin-left: 1000px;  
+}
+#nova{
+  font-size: 28px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+}
+#pluto{
+  width: 310px;
+  height: 32px;
+  margin-left: -120px;
+}
+#pluto1{
+  width: 310px;
+  height: 32px;
+  margin-left: -120px;
+}
+#star{
+  width: 320px;
+  height: 40px;
+  margin-left: -122px;
+  background-color: #17a2bb;
+}
+#ullu{
+  font-size: 18px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: grey;
+  margin-left: -44px;
+}
+#sun{
+  width: 320px;
+  height: 40px;
+  margin-left: -122px;
+  color: #17a2bb;
+  border: 2px solid #17a2bb;
+  cursor: pointer;
+}
